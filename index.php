@@ -6,7 +6,7 @@ use \application\Asus;
 //ini_set('display_startup_errors', 1);
 //error_reporting(E_ALL);
 //вывод всех ошибок на экран
-
+//1234
 
 require_once(__DIR__ . DIRECTORY_SEPARATOR . 'Autoload.php');
 spl_autoload_register(['Autoload', 'loader']);
